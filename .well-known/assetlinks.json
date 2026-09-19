@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.morgankat.tradeport2",
+        "sha256_cert_fingerprints": ["3F:8D:A1:F3:F5:CE:80:BB:9A:B9:9A:CF:7C:56:06:18:A1:C6:50:05:5D:87:B0:BE:FD:AB:6C:51:C3:E1:A9:33"]
+      }
+    }]
